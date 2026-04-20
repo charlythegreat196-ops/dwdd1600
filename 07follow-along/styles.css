@@ -53,7 +53,7 @@ header p {
 
 
 /* LARGE SCREEN NAVAGATION */
-@media only screen and (min-width: 801px) {
+@media only screen and (min-width: 601px) {
     nav{
         border-top: solid 1px #E0E6E6;
     }
